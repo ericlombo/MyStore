@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+}
+
+.products {
+    width: 100%;
+
+    display: flex;
+    flex-wrap: wrap;
+}
